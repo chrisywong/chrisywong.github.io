@@ -6,6 +6,6 @@ Welcome to the personal page of Chris Yee Wong! I am currently a postdoctoral fe
 
 ## Links to other profile pages
 
-[Link to ResearchGate Profile](https://www.researchgate.net/profile/Christopher-Yee-Wong).
-[Link to Google Scholar Profile](https://scholar.google.ca/citations?user=rddmHA4AAAAJ&hl=en&authuser=1).
-[Link to LinkedIn Profile]([./another-page.html](https://www.linkedin.com/in/chrisyeewong/)).
+*  [ResearchGate Profile](https://www.researchgate.net/profile/Christopher-Yee-Wong).
+*  [Google Scholar Profile](https://scholar.google.ca/citations?user=rddmHA4AAAAJ&hl=en&authuser=1).
+*  [LinkedIn Profile]([./another-page.html](https://www.linkedin.com/in/chrisyeewong/)).
