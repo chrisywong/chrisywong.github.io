@@ -27,22 +27,21 @@ bio: My research interests include physical human-robot interaction.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Physical Human-Robot Interaction
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Robotics 
+      institution: University of Toronto (Toronto, Canada)
+      year: 2017
+    - course: M.Eng. in Robotics
+      institution: McGill University (Montreal, Canada)
+      year: 2014
+    - course: B.Eng. in Mechanical Engineering
+      institution: McGill University (Montreal, Canada)
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -84,5 +83,6 @@ email: ''
 highlight_name: true
 ---
 
-Christopher Yee Wong currently works at the University of Sherbrooke in Sherbrooke, Canada. His current research arc involves different aspects of physical human-robot interaction with humanoid robots, particularly in multimodal attention and intention recognition related to human touch. His past research involved automation of single cell micromanipulation, quadruped robot control, and hexapod robot leg design.
+I am currently working as a postdoctoral fellow at the University of Sherbrooke in Sherbrooke, Canada. My current research arc involves different aspects of physical human-robot interaction (pHRI) with humanoid robots, particularly in multimodal attention and intention recognition related to human touch. The goal is to develop robotic assistants for safe, comfortable, and intuitive autonomous pHRI in the areas of home care, manufacturing, or healthcare. I am also researching the concept of *Sensor Observability Analysis*, a novel way of performing generalized kinematic analysis of distributed axial sensors on articulated robots. My past research involved automation of single cell micromanipulation, quadruped robot control, and hexapod robot leg design. I am also passionate about teaching, mentoring, and helping people become better versions of themselves.
+
 {style="text-align: justify;"}
