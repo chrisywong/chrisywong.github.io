@@ -1,6 +1,6 @@
 ---
-title: Single Cell Surgery
-summary: Automating single cell surgery and manipulation on early-stage embryos, particluarly related to pre-implantation genetic diagnosis (PGD). 
+title: Single Cell Manipulation
+summary: Automating single cell surgery and manipulation techniques on early-stage embryos, particluarly related to pre-implantation genetic diagnosis (PGD). 
 tags:
   - old
 date: "2013-09-01T00:00:00Z"
