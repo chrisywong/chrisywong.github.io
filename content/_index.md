@@ -4,7 +4,7 @@
 
 
 # Leave the homepage title empty to use the site title
-title: Chris Yee Wong, Ph.D., CPI | Personal Page
+title: Chris Yee Wong, Ph.D., CPI
 date: 2022-10-24
 type: landing
 
@@ -176,11 +176,13 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Physical Human-Robot Interaction
-          tag: phri
-        - name: Sensor Observability
-          tag: SOA
-        - name: Prev. Projects
+        - name: Active Projects
+          tag: 'active'
+        # - name: '| Physical Human-Robot Interaction'
+        #   tag: phri
+        # - name: '| Sensor Observability'
+        #   tag: SOA
+        - name: Past Projects
           tag: old
   #   design:
   #     # Choose how many columns the section has. Valid values: '1' or '2'.

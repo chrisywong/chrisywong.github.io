@@ -15,7 +15,6 @@ superuser: true
 
 # Role/position/tagline
 role: Postdoctoral Fellow in Robotics
-# role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -23,7 +22,7 @@ organizations:
     url: https://www.usherbrooke.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include physical human-robot interaction.
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -48,18 +47,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://scholar.google.ca/citations?hl=en&user=rddmHA4AAAAJ&view_op=list_works&sortby=pubdate
   - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://www.researchgate.net/profile/Christopher-Yee-Wong
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/chrisyeewong/
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.ca/citations?hl=en&user=rddmHA4AAAAJ&view_op=list_works&sortby=pubdate
   # - icon: envelope
   #   icon_pack: fas
-  #   link: '/#contact'
+  #   link: '/#contact' 
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/chrisywong1
@@ -84,5 +83,7 @@ highlight_name: true
 ---
 
 I am currently working as a postdoctoral fellow at the University of Sherbrooke in Sherbrooke, Canada. My current research arc involves different aspects of physical human-robot interaction (pHRI) with humanoid robots, particularly in multimodal attention and intention recognition related to human touch. The goal is to develop robotic assistants for safe, comfortable, and intuitive autonomous pHRI in the areas of home care, manufacturing, or healthcare. I am also researching the concept of *Sensor Observability Analysis*, a novel way of performing generalized kinematic analysis of distributed axial sensors on articulated robots. My past research involved automation of single cell micromanipulation, quadruped robot control, and hexapod robot leg design. I am also passionate about teaching, mentoring, and helping people become better versions of themselves.
+
+<sub>(Note that this website is still a work in progress. Please use the links to my [ResearchGate](https://www.researchgate.net/profile/Christopher-Yee-Wong) and [LinkedIn](https://www.linkedin.com/in/chrisyeewong/) profiles for a more detailed portfolio.)</sub>
 
 {style="text-align: justify;"}

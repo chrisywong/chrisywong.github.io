@@ -6,7 +6,7 @@ tags:
 date: "2013-09-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.researchgate.net/project/Single-Cell-Surgery
+external_link: https://www.researchgate.net/project/Automation-of-Single-Cell-Manipulation
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
