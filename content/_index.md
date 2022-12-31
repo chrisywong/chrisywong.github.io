@@ -4,7 +4,7 @@
 
 
 # Leave the homepage title empty to use the site title
-title: Chris Yee Wong, Ph.D., CPI
+title: Chris Yee WONG, Ph.D., CPI
 date: 2022-10-24
 type: landing
 
