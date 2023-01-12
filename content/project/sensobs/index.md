@@ -5,9 +5,10 @@ tags:
   - SOA
   - active
 date: "2021-04-27T00:00:00Z"
+draft: true
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.researchgate.net/project/Sensor-Observability-Index
+external_link: https://www.researchgate.net/project/Sensor-Observability-Analysis
 
 image:
   caption: Photo by Toa Heftiba on Unsplash

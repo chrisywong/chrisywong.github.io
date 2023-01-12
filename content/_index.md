@@ -9,39 +9,41 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: 
-      # image:
-      #   filename: hero-academic.png
-      # cta:
-      #   label: '**Get Started**'
-      #   url: https://wowchemy.com/templates/
-      # cta_alt:
-      #   label: Ask a question
-      #   url: https://discord.gg/z8wNYzb
-      # cta_note:
-      #   label: >-
-      #     <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
-      # text: |-
-      #   Welcome to the personal page of Chris Yee Wong!
+  # - block: hero
+  #   content:
+  #     title: 
+  #     # image:
+  #     #   filename: hero-academic.png
+  #     # cta:
+  #     #   label: '**Get Started**'
+  #     #   url: https://wowchemy.com/templates/
+  #     # cta_alt:
+  #     #   label: Ask a question
+  #     #   url: https://discord.gg/z8wNYzb
+  #     # cta_note:
+  #     #   label: >-
+  #     #     <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
+  #     # text: |-
+  #     #   Welcome to the personal page of Chris Yee Wong!
 
-      #   <!--Custom spacing-->
-      #   <div class="mb-3"></div>
-      #   <!--GitHub Button JS-->
-      #   <script async defer src="https://buttons.github.io/buttons.js"></script>
-    design:
-      background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
+  #     #   <!--Custom spacing-->
+  #     #   <div class="mb-3"></div>
+  #     #   <!--GitHub Button JS-->
+  #     #   <script async defer src="https://buttons.github.io/buttons.js"></script>
+  #   design:
+  #     background:
+  #       gradient_end: '#1976d2'
+  #       gradient_start: '#004ba0'
+  #       text_color_light: true
   - block: about.avatar
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: Wong_ChrisY
+      design:
+        columns: '2'
       # Override your bio text from `authors/admin/_index.md`?
-      text:
+      # text:
   # - block: features
   #   content:
   #     title: Skills
@@ -58,39 +60,76 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: CEO
-  #         company: GenCoin
-  #         company_url: ''
-  #         company_logo: org-gc
-  #         location: California
-  #         date_start: '2021-01-01'
-  #         date_end: ''
-  #         description: |2-
-  #             Responsibilities include:
+  - block: experience
+    id: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Postdoctoral Fellow
+          company: Universite de Sherbrooke
+          company_url: ''
+          company_logo: UdeS_logo_only
+          location: Sherbrooke, Canada
+          date_start: '2019-03-01'
+          date_end: ''
+          # description: wtf
+        - title: Part-Time Professor (ENGR 243)
+          company: Concordia University
+          company_url: ''
+          company_logo: concordia_logo
+          location: Montreal, Canada
+          date_start: '2021-09-01'
+          date_end: '2021-12-31'
+        - title: Mitacs Globalink Visiting Postdoctoral Fellow
+          company: CNRS LIRMM Interactive Digital Humans
+          company_url: ''
+          company_logo: LogoLIRMMstacked
+          location: Montpellier, France
+          date_start: '2019-08-20'
+          date_end: '2019-12-31'
+        - title: JSPS Postdoctoral Fellow
+          company: CNRS-AIST Joint Robotics Laboratory
+          company_url: ''
+          company_logo: aist
+          location: Tsukuba, Japan
+          date_start: '2018-01-04'
+          date_end: '2019-02-08'
+        - title: Ph.D. in Mechanical Engineering
+          company: University of Toronto
+          company_url: ''
+          company_logo: UofT_logo
+          location: Toronto, Canada
+          date_start: '2013-09-01'
+          date_end: '2017-12-31'
+        - title: B.Eng. and M.Eng. in Mechanical Engineering
+          company: McGill University
+          company_url: ''
+          company_logo: McGill_logo
+          location: Montreal, Canada
+          date_start: '2007-09-01'
+          date_end: '2013-08-30'
+  #         # description: |2-
+  #         #     Responsibilities include:
 
-  #             * Analysing
-  #             * Modelling
-  #             * Deploying
-  #       - title: Professor of Semiconductor Physics
-  #         company: University X
-  #         company_url: ''
-  #         company_logo: org-x
-  #         location: California
-  #         date_start: '2016-01-01'
-  #         date_end: '2020-12-31'
-  #         description: Taught electronic engineering and researched semiconductor physics.
+  #         #     * Analysing
+  #         #     * Modelling
+  #         #     * Deploying
+        # - title: Professor of Semiconductor Physics
+        #   company: University X
+        #   company_url: ''
+        #   company_logo: org-x
+        #   location: California
+        #   date_start: '2016-01-01'
+        #   date_end: '2020-12-31'
+        #   description: Taught electronic engineering and researched semiconductor physics.
   #   design:
   #     columns: '2'
   # - block: accomplishments
@@ -178,10 +217,6 @@ sections:
           tag: '*'
         - name: Active Projects
           tag: 'active'
-        # - name: '| Physical Human-Robot Interaction'
-        #   tag: phri
-        # - name: '| Sensor Observability'
-        #   tag: SOA
         - name: Past Projects
           tag: old
   #   design:
@@ -198,17 +233,56 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  # - block: collection
-  #   id: featured
+  # - block: markdown #TEACHING PORTFOLIO
+  #   id: teaching
   #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
+  #     title: Teaching Portfolio
+  #     text: |2-
+  #       View my RateMyProfessors profile [here](https://www.ratemyprofessors.com/professor?tid=2719627).
+
+  #       * ENGR 243 - Dynamics (Concordia University) -- Fall 2021
+  #         * Overall rating 4.71/5, enthusiasm 4.94/5, and approachability 4.94/5
+  #       * MIE 422 - Automated Manufacturing (University of Toronto) -- Fall 2016
+        
+  #       *<sub>(This section is still under construction.)</sub>*
   #   design:
-  #     columns: '2'
-  #     view: card
+  #     columns: '1'
+  - block: experience
+    id: teaching
+    content:
+      title: Teaching Portfolio (Course Instructor)
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # design:
+      #   columns: '2'
+      #   view: compact
+      #   spacing:
+      #     # Customize the section spacing. Order is top, right, bottom, left.
+      #     padding: ["20px", "0", "20px", "0"]
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: ENGR 243 Dynamics
+          company: Concordia University
+          company_url: ''
+          company_logo: concordia_logo
+          location: Montreal, Canada
+          date_start: '2021-09-01'
+          date_end: '2021-12-31'
+          description: |2-
+            * Overall rating 4.71/5, enthusiasm 4.94/5, and approachability 4.94/5
+            * View my RateMyProfessors profile [here](https://www.ratemyprofessors.com/professor?tid=2719627).
+        - title: MIE 422 Automated Manufacturing
+          company: University of Toronto
+          company_url: ''
+          company_logo: UofT_logo
+          location: Toronto, Canada
+          date_start: '2016-09-01'
+          date_end: '2016-12-31'
   # - block: collection
   #   content:
   #     title: Recent Publications
