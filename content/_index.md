@@ -260,10 +260,6 @@ sections:
       #   spacing:
       #     # Customize the section spacing. Order is top, right, bottom, left.
       #     padding: ["20px", "0", "20px", "0"]
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: ENGR 243 Dynamics
@@ -283,6 +279,9 @@ sections:
           location: Toronto, Canada
           date_start: '2016-09-01'
           date_end: '2016-12-31'
+          description: |2-
+            * Overall rating 4.2/5, enthusiasm 4.7/5, and approachability 4.6/5
+              * (Comparatively, the departmental average overall rating was 3.7/5)
   # - block: collection
   #   content:
   #     title: Recent Publications

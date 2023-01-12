@@ -1,6 +1,6 @@
 ---
 title: Sensor Observability Analysis
-summary: Sensor Observability Analysis, akin to the kinematic manipulability index, aims to quantify the quality of sensor observations of task-space quantities based on the robot configuration for optimization purposes.
+summary: Sensor Observability Analysis aims to quantify the quality of sensor observations of task-space quantities based on the robot configuration.
 
 tags:
   - SOA
@@ -18,6 +18,10 @@ image:
   focal_point: Smart
 
 links:
+  - icon: 
+    icon_pack: 
+    name: IROS 2022 Presentation
+    url: https://www.youtube.com/watch?v=W8IQpi4CBZg
   - icon: researchgate
     icon_pack: ai
     name: ResearchGate
@@ -25,7 +29,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=W8IQpi4CBZg'
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -37,4 +41,6 @@ slides: ""
 
 Sensor Observability Analysis, akin to the kinematic manipulability index, aims to quantify the quality of sensor observations of task-space quantities based on the robot configuration for optimization purposes.
 
-Please visit my [ResearchGate project page](https://www.researchgate.net/project/Sensor-Observability-Analysis) to see the list of related items.
+Please visit my [ResearchGate project page](https://www.researchgate.net/project/Sensor-Observability-Analysis) to see the list of related research items.
+
+* IROS 2022 Presentation (Kyoto, Oct 2022): https://www.youtube.com/watch?v=W8IQpi4CBZg
