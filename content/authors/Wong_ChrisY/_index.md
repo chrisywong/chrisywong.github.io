@@ -60,6 +60,8 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.ca/citations?hl=en&user=rddmHA4AAAAJ&view_op=list_works&sortby=pubdate
+    display:
+      header: true
   # - icon: envelope
   #   icon_pack: fas
   #   link: '/#contact' 
