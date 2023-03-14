@@ -1,6 +1,7 @@
 ---
 
 <!-- Tutorial: https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/  -->
+<!-- Tutorial: https://iphysresearch.github.io/blog/post/writting-markdown/  -->
 
 
 # Leave the homepage title empty to use the site title
@@ -244,17 +245,17 @@ sections:
   - block: experience
     id: teaching
     content:
-      title: Teaching Portfolio
+      title: Teaching Philosophy and Portfolio
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       text: |2-
-         <p style="text-align: center;"><i> I believe that knowledge cannot be transferred or prescribed; it can only be reconstructed in one's head. </i></p>
-        
+        > <i> I believe that knowledge cannot be transferred or prescribed; it can only be reconstructed in one's head. </i>
+
         My overarching philosophy as a teacher, continuously refined over 14 semesters of teaching experience as both course instructor and teaching assistant, is to act as a guide for students such that they stay engaged in the learning process and solve problems by their own reasoning. 
         The goal is to help students in reconstructing new knowledge for themselves through a mix of evidence-based educational techniques and my own creativity to ensure that my methods are effective. 
 
-        I'm always interested in discussing new teaching philosophies and methods, so feel free to reach out to me.
+        I'm always interested in new teaching philosophies and methods, so feel free to reach out to me if you want to start a discussion!
 
          <sub> (The entries below are my experience as a course instructor, except for the last entry.) </sub>
       # design:
