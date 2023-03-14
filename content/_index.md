@@ -1,6 +1,6 @@
 ---
 
-<!--Tutorial: https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/-->
+<!-- Tutorial: https://mickaellalande.github.io/post/tutorial/how-to-create-an-academic-github-page-with-hugo/  -->
 
 
 # Leave the homepage title empty to use the site title
@@ -39,7 +39,7 @@ sections:
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: Wong_ChrisY
+      username: admin
       design:
         columns: '2'
       # Override your bio text from `authors/admin/_index.md`?
@@ -236,24 +236,27 @@ sections:
   # - block: markdown #TEACHING PORTFOLIO
   #   id: teaching
   #   content:
-  #     title: Teaching Portfolio
+  #     title: Teaching Philosophy
   #     text: |2-
-  #       View my RateMyProfessors profile [here](https://www.ratemyprofessors.com/professor?tid=2719627).
-
-  #       * ENGR 243 - Dynamics (Concordia University) -- Fall 2021
-  #         * Overall rating 4.71/5, enthusiasm 4.94/5, and approachability 4.94/5
-  #       * MIE 422 - Automated Manufacturing (University of Toronto) -- Fall 2016
-        
-  #       *<sub>(This section is still under construction.)</sub>*
+  #       SOMETEXT
   #   design:
   #     columns: '1'
   - block: experience
     id: teaching
     content:
-      title: Teaching Portfolio (Course Instructor)
+      title: Teaching Portfolio
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
+      text: |2-
+         <p style="text-align: center;"><i> I believe that knowledge cannot be transferred or prescribed; it can only be reconstructed in one's head. </i></p>
+        
+        My overarching philosophy as a teacher, continuously refined over 14 semesters of teaching experience as both course instructor and teaching assistant, is to act as a guide for students such that they stay engaged in the learning process and solve problems by their own reasoning. 
+        The goal is to help students in reconstructing new knowledge for themselves through a mix of evidence-based educational techniques and my own creativity to ensure that my methods are effective. 
+
+        I'm always interested in discussing new teaching philosophies and methods, so feel free to reach out to me.
+
+         <sub> (The entries below are my experience as a course instructor, except for the last entry.) </sub>
       # design:
       #   columns: '2'
       #   view: compact
@@ -282,6 +285,23 @@ sections:
           description: |2-
             * Overall rating 4.2/5, enthusiasm 4.7/5, and approachability 4.6/5
               * (Comparatively, the departmental average overall rating was 3.7/5)
+        - title: Teaching Assistant / Head TA
+          # company: Various Universities
+          # company_url: ''
+          # company_logo: 
+          # location: Toronto, Canada
+          date_start: '2011-09-01'
+          date_end: '2022-12-31'
+          description: |2-
+            Two latest student evaluations as a TA: 4.7/5 and 4.5/5
+            * **Université de Sherbrooke** (Oct 2021 – Dec 2022)
+              * GEL 521 Identification et modélisation (Fall 2021, 2022)
+            * **University of Toronto** (Sept 2013 – Dec 2017)
+              * MIE 422F Automated Manufacturing (Fall 2013-2015 and 2017)
+              * MIE 402S Vibrations (Spring 2014-2017)
+              * MIE 1064F Control Methods with Applications to Robotics (Fall 2017)
+            * **McGill University**	(Sept 2011 – Dec 2011)
+              * MECH 260 Machine Tool Laboratory	(Fall 2011)
   # - block: collection
   #   content:
   #     title: Recent Publications

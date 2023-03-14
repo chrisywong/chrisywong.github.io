@@ -49,16 +49,19 @@ education:
 social:
   - icon: researchgate
     icon_pack: ai
+    label: View my ResearchGate Profile
     link: https://www.researchgate.net/profile/Christopher-Yee-Wong
     display:
       header: true
   - icon: linkedin
     icon_pack: fab
+    label: View my LinkedIn Profile
     link: https://www.linkedin.com/in/chrisyeewong/
     display:
       header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
+    label: View my Google Scholar publications
     link: https://scholar.google.ca/citations?hl=en&user=rddmHA4AAAAJ&view_op=list_works&sortby=pubdate
     display:
       header: true
@@ -73,7 +76,12 @@ social:
       header: true
   - icon: github
     icon_pack: fab
+    label: See my GitHub repositories
     link: https://github.com/chrisywong/
+  - icon: wordpress
+    icon_pack: fab
+    label: See my blog
+    link: https://phdramblingshome.wordpress.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -89,7 +97,15 @@ highlight_name: true
 ---
 <DIV align="justify">
 
-I am currently working as a postdoctoral fellow at the University of Sherbrooke in Sherbrooke, Canada. My current research arc involves different aspects of *physical and social human-robot interaction (psHRI)* with humanoid and manipulator robots, particularly in multimodal attention and intention recognition related to human touch. The goal is to develop robotic assistants for *safe, comfortable, and intuitive autonomous psHRI* in the areas of home care, manufacturing, or healthcare. I am also researching the concept of *Sensor Observability Analysis*, a novel way of performing generalized kinematic analysis of distributed axial sensors on articulated robots. My past research involved automation of single cell micromanipulation, quadruped robot control, and hexapod robot leg design. I am also passionate about teaching, mentoring, and helping people become better versions of themselves.
+Hello! I am **Chris Yee Wong**, a **postdoctoral fellow** in the *Humanoid and Collaborative Robotics Laboratory* within the Dept. of Electrical and Computer Engineering at the **University of Sherbrooke** in Sherbrooke, Canada. 
+
+The goal of my [research](https://chrisywong.github.io/#research) is to develop robotic assistants for **safe, comfortable, and intuitive autonomous physical and social human-robot interaction (psHRI)** in the areas of home care, manufacturing, or healthcare. 
+My current research arc involves different aspects of psHRI with humanoid and manipulator robots, particularly in *multimodal attention and intention recognition related to human touch*. 
+I am also developing the foundations of *Sensor Observability Analysis*, a novel way of performing generalized kinematic analysis of distributed axial sensors on articulated robots. My past research involved automation of single cell micromanipulation, quadruped robot control, and hexapod robot leg design. 
+
+I am also passionate about [teaching](https://chrisywong.github.io/#teaching), mentoring, and helping people become better versions of themselves.
+
+On my spare time, I'm a hobbyist maker with my own [Etsy store](https://www.etsy.com/ca/shop/SRNDPTOUSCreations) (with one side project sold to a corporate client) and I'm involved in coaching elite youth and university-level dragon boat teams in the Montreal area. Although my blog [*Ramblings of a PhD*](https://phdramblingshome.wordpress.com/) is a little outdated now, it has recorded some of my thoughts from having started a career in research.
 
 *<sub>(Note that this website is still a work in progress. Please use the links to my [ResearchGate](https://www.researchgate.net/profile/Christopher-Yee-Wong) and [LinkedIn](https://www.linkedin.com/in/chrisyeewong/) profiles for a more detailed portfolio.)</sub>*
 
