@@ -6,7 +6,7 @@
 
 # Leave the homepage title empty to use the site title
 title: Chris Yee WONG, Ph.D., CPI
-date: 2022-10-24
+date: 2023-05-04
 type: landing
 
 sections:
@@ -41,8 +41,8 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      design:
-        columns: '2'
+      # design:
+      #   columns: '2'
       # Override your bio text from `authors/admin/_index.md`?
       # text:
   # - block: features
@@ -74,14 +74,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Associate
+          company: McGill University
+          company_url: 'https://sites.google.com/view/mcgillraise/home'
+          company_logo: McGill_logo
+          location: Montreal, Canada
+          date_start: '2023-05-01'
+          date_end: ''
+          # description: wtf
         - title: Postdoctoral Fellow
           company: Universite de Sherbrooke
           company_url: ''
           company_logo: UdeS_logo_only
           location: Sherbrooke, Canada
           date_start: '2019-03-01'
-          date_end: ''
-          # description: wtf
+          date_end: '2023-04-30'
         - title: Part-Time Professor (ENGR 243)
           company: Concordia University
           company_url: ''
@@ -202,7 +209,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Research Projects
       filters:
         folders:
           - project
@@ -243,9 +250,19 @@ sections:
   #   design:
   #     columns: '1'
   - block: experience
+    id: publications
+    content:
+      title: Publications
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      text: |2-
+        This section is currently a work in progress.
+        Please see my [ResearchGate](https://www.researchgate.net/profile/Christopher-Yee-Wong) or [Google Scholar](https://scholar.google.ca/citations?hl=en&user=rddmHA4AAAAJ&view_op=list_works&sortby=pubdate) profiles for a detailed list. 
+  - block: experience
     id: teaching
     content:
-      title: Teaching Philosophy and Portfolio
+      title: Teaching Portfolio
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006

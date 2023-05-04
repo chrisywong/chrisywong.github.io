@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow in Robotics
+role: Research Associate in Robotics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Université de Sherbrooke (Sherbrooke, Canada)
-    url: https://www.usherbrooke.ca/
+  - name: McGill University (Montreal, Canada)
+    url: https://www.mcgill.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -97,15 +97,17 @@ highlight_name: true
 ---
 <DIV align="justify">
 
-Hello! I am **Chris Yee Wong**, a **postdoctoral fellow** in the *Humanoid and Collaborative Robotics Laboratory* within the Dept. of Electrical and Computer Engineering at the **University of Sherbrooke** in Sherbrooke, Canada. 
+Hello! I am **Chris Yee Wong**, a **research associate** in the [*Responsible Autonomy and Intelligent Systems Ethics (RAISE) Laboratory*](https://sites.google.com/view/mcgillraise/home) within the Dept. of Electrical and Computer Engineering at the **McGill University** in Montreal, Canada. 
 
-The goal of my [research](#projects) is to develop robotic assistants for **safe, comfortable, and intuitive autonomous physical and social human-robot interaction (psHRI)** in the areas of home care, manufacturing, or healthcare. 
-My current research arc involves different aspects of psHRI with humanoid and manipulator robots, particularly in *multimodal attention and intention recognition related to human touch*. 
+The overall goal of my [research](#projects) is to develop robotic assistants for **safe, comfortable, and intuitive autonomous physical and social human-robot interaction (psHRI)** in the areas of home care, retail, manufacturing, or healthcare. 
+My current research arc involves different aspects of psHRI with humanoid, mobile, and manipulator robots, particularly by examining how robots can be placed in the retail space to enhance and assist the shopping experience of those who might have visual or mobility impairments.
+My research also examines the use of a multimodal analysis of human posture and touch for intention recognition such that a robot can react appropriately. 
+
 I am also developing the foundations of *Sensor Observability Analysis*, a novel way of performing generalized kinematic analysis of distributed axial sensors on articulated robots. My past research involved automation of single cell micromanipulation, quadruped robot control, and hexapod robot leg design. 
 
 I am also passionate about [teaching](#teaching) using evidence-based techniques, the scholarship of teaching and learning, mentoring, and helping people become better versions of themselves.
 
-On my spare time, I'm a hobbyist maker with my own [Etsy store](https://www.etsy.com/ca/shop/SRNDPTOUSCreations) (with one side project sold to a corporate client) and I'm involved in coaching elite youth and university-level dragon boat teams in the Montreal area. Although my blog [*Ramblings of a PhD*](https://phdramblingshome.wordpress.com/) is a little outdated now, it has recorded some of my thoughts from having started a career in academia.
+On my spare time, I'm a hobbyist maker with my own [Etsy store](https://www.etsy.com/ca/shop/SRNDPTOUSCreations) (with corporate clients) and I'm involved in coaching elite youth and university-level dragon boat teams in the Montreal area. Although my blog [*Ramblings of a PhD*](https://phdramblingshome.wordpress.com/) is a little outdated now, it has recorded some of my thoughts from having started a career in academia.
 
 *<sub>(Note that this website is still a work in progress. Please use the links to my [ResearchGate](https://www.researchgate.net/profile/Christopher-Yee-Wong) and [LinkedIn](https://www.linkedin.com/in/chrisyeewong/) profiles for a more detailed portfolio.)</sub>*
 
