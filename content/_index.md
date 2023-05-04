@@ -36,7 +36,7 @@ sections:
   #       gradient_end: '#1976d2'
   #       gradient_start: '#004ba0'
   #       text_color_light: true
-  - block: about.avatar
+  - block: about.biography
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -75,7 +75,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Associate
-          company: McGill University
+          company: McGill University - Responsible Autonomy and Intelligent Systems Ethics (RAISE) Laboratory
           company_url: 'https://sites.google.com/view/mcgillraise/home'
           company_logo: McGill_logo
           location: Montreal, Canada
@@ -83,7 +83,7 @@ sections:
           date_end: ''
           # description: wtf
         - title: Postdoctoral Fellow
-          company: Universite de Sherbrooke
+          company: Universite de Sherbrooke - Humanoid and Collaborative Robotics Laboratory
           company_url: ''
           company_logo: UdeS_logo_only
           location: Sherbrooke, Canada
@@ -104,26 +104,26 @@ sections:
           date_start: '2019-08-20'
           date_end: '2019-12-31'
         - title: JSPS Postdoctoral Fellow
-          company: CNRS-AIST Joint Robotics Laboratory
+          company: CNRS-AIST Joint Robotics Laboratory (JRL)
           company_url: ''
           company_logo: aist
           location: Tsukuba, Japan
           date_start: '2018-01-04'
           date_end: '2019-02-08'
-        - title: Ph.D. in Mechanical Engineering
-          company: University of Toronto
-          company_url: ''
-          company_logo: UofT_logo
-          location: Toronto, Canada
-          date_start: '2013-09-01'
-          date_end: '2017-12-31'
-        - title: B.Eng. and M.Eng. in Mechanical Engineering
-          company: McGill University
-          company_url: ''
-          company_logo: McGill_logo
-          location: Montreal, Canada
-          date_start: '2007-09-01'
-          date_end: '2013-08-30'
+        # - title: Ph.D. in Mechanical Engineering
+        #   company: University of Toronto
+        #   company_url: ''
+        #   company_logo: UofT_logo
+        #   location: Toronto, Canada
+        #   date_start: '2013-09-01'
+        #   date_end: '2017-12-31'
+        # - title: B.Eng. and M.Eng. in Mechanical Engineering
+        #   company: McGill University
+        #   company_url: ''
+        #   company_logo: McGill_logo
+        #   location: Montreal, Canada
+        #   date_start: '2007-09-01'
+        #   date_end: '2013-08-30'
   #         # description: |2-
   #         #     Responsibilities include:
 

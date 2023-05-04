@@ -28,11 +28,13 @@ bio:
 interests:
   - Robotics
   - Physical Human-Robot Interaction
+  - Cooking
+  - Dragon Boat
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Robotics 
+    - course: Ph.D. in Robotics 
       institution: University of Toronto (Toronto, Canada)
       year: 2017
     - course: M.Eng. in Robotics
