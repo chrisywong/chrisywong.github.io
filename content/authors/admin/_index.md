@@ -99,7 +99,7 @@ highlight_name: true
 ---
 <DIV align="justify">
 
-Hello! I am **Chris Yee Wong**, a **research associate** in the [*Responsible Autonomy and Intelligent Systems Ethics (RAISE) Laboratory*](https://sites.google.com/view/mcgillraise/home) within the Dept. of Electrical and Computer Engineering at the **McGill University** in Montreal, Canada. 
+Hello! I am **Chris Yee Wong**, a **research associate** in the [*Responsible Autonomy and Intelligent Systems Ethics (RAISE) Laboratory*](https://sites.google.com/view/mcgillraise/home) within the Dept. of Electrical and Computer Engineering at **McGill University** in Montreal, Canada. 
 
 The overall goal of my [research](#projects) is to develop robotic assistants for **safe, comfortable, and intuitive autonomous physical and social human-robot interaction (psHRI)** in the areas of home care, retail, manufacturing, or healthcare. 
 My current research arc involves different aspects of psHRI with humanoid, mobile, and manipulator robots, particularly by examining how robots can be placed in the retail space to enhance and assist the shopping experience of those who might have visual or mobility impairments.
