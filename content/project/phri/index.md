@@ -18,7 +18,7 @@ links:
   - icon: 
     icon_pack: 
     name: Video 1
-    url: https://youtu.be/r0KHTMqw31s
+    url: https://youtu.be/Tu9BA_Mq2sI
   - icon: 
     icon_pack: 
     name: Video 2
@@ -34,9 +34,8 @@ url_video: ''
 ---
 Development of pHRI techniques with a particular focus on touch interpretation and intention detection for the goal of achieving safe, comfortable, and intuitive autonomous pHRI.
 
-Please visit my [ResearchGate project page](https://www.researchgate.net/project/Physical-Human-Robot-Interaction-3) to see the list of related research items.
-
-* Video 1: https://youtu.be/r0KHTMqw31s
+**Related Research Items:** 
+* Video 1: https://youtu.be/gDnVblT8K8I
   * From *[Touch Semantics for Intuitive Physical Manipulation of Humanoids](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=rddmHA4AAAAJ&sortby=pubdate&authuser=1&citation_for_view=rddmHA4AAAAJ:_FxGoFyzp5QC)*
-* Video 2: https://youtu.be/gDnVblT8K8I
+* Video 2: https://youtu.be/Tu9BA_Mq2sI
   * From *[Vision-and tactile-based continuous multimodal intention and attention recognition for safer physical human-robot interaction](https://scholar.google.ca/citations?view_op=view_citation&hl=en&user=rddmHA4AAAAJ&sortby=pubdate&authuser=1&citation_for_view=rddmHA4AAAAJ:eQOLeE2rZwMC)*

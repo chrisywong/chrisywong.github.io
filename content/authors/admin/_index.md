@@ -103,7 +103,7 @@ Hello! I am **Chris Yee Wong**, a **research associate** in the [*Responsible Au
 
 The overall goal of my [research](#projects) is to develop robotic assistants for **safe, comfortable, and intuitive autonomous physical and social human-robot interaction (psHRI)** in the areas of home care, retail, manufacturing, or healthcare. 
 My current research arc involves different aspects of psHRI with humanoid, mobile, and manipulator robots, particularly by examining how robots can be placed in the retail space to enhance and assist the shopping experience of those who might have visual or mobility impairments.
-My research also examines the use of a multimodal analysis of human posture and touch for intention recognition such that a robot can react appropriately. 
+By using a multimodal analysis of human posture, gesture, and touch, a robot can infer intention and react appropriately depending on the context. 
 
 I am also developing the foundations of *Sensor Observability Analysis*, a novel way of performing generalized kinematic analysis of distributed axial sensors on articulated robots. My past research involved automation of single cell micromanipulation, quadruped robot control, and hexapod robot leg design. 
 

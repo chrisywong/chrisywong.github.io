@@ -249,16 +249,33 @@ sections:
   #       SOMETEXT
   #   design:
   #     columns: '1'
-  - block: experience
+  # - block: experience
+  #   id: publications
+  #   content:
+  #     title: Publications
+  #     # Date format for experience
+  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     text: |2-
+  #       This section is currently a work in progress.
+  #       Please see my [ResearchGate](https://www.researchgate.net/profile/Christopher-Yee-Wong) or [Google Scholar](https://scholar.google.ca/citations?hl=en&user=rddmHA4AAAAJ&view_op=list_works&sortby=pubdate) profiles for a detailed list. 
+  - block: collection
     id: publications
     content:
-      title: Publications
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      text: |2-
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
         This section is currently a work in progress.
         Please see my [ResearchGate](https://www.researchgate.net/profile/Christopher-Yee-Wong) or [Google Scholar](https://scholar.google.ca/citations?hl=en&user=rddmHA4AAAAJ&view_op=list_works&sortby=pubdate) profiles for a detailed list. 
+        {{% /callout %}}
+        <!-- Quickly discover relevant content by [filtering publications](./publication/). -->
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: experience
     id: teaching
     content:
@@ -320,20 +337,6 @@ sections:
               * MIE 1064F Control Methods with Applications to Robotics (Fall 2017)
             * **McGill University**	(Sept 2011 – Dec 2011)
               * MECH 260 Machine Tool Laboratory	(Fall 2011)
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: |-
-  #       {{% callout note %}}
-  #       Quickly discover relevant content by [filtering publications](./publication/).
-  #       {{% /callout %}}
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: true
-  #   design:
-  #     columns: '2'
-  #     view: citation
   # - block: collection
   #   id: talks
   #   content:
