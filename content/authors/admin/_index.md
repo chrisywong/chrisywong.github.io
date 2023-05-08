@@ -111,6 +111,8 @@ I am also passionate about [teaching](#teaching) using evidence-based techniques
 
 On my spare time, I'm a hobbyist maker with my own [Etsy store](https://www.etsy.com/ca/shop/SRNDPTOUSCreations) (with corporate clients) and I'm involved in coaching elite youth and university-level dragon boat teams in the Montreal area. Although my blog [*Ramblings of a PhD*](https://phdramblingshome.wordpress.com/) is a little outdated now, it has recorded some of my thoughts from having started a career in academia.
 
+Feel free to contact me by email 📧: `christopher[dot]wong3[at]mcgill[dot]ca`
+ 
 *<sub>(Note that this website is still a work in progress. Please use the links to my [ResearchGate](https://www.researchgate.net/profile/Christopher-Yee-Wong) and [LinkedIn](https://www.linkedin.com/in/chrisyeewong/) profiles for a more detailed portfolio.)</sub>*
 
 </DIV>
