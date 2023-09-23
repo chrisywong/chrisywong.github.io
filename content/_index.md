@@ -4,6 +4,10 @@
 <!-- Tutorial: https://iphysresearch.github.io/blog/post/writting-markdown/  -->
 
 
+# if problems, see https://user.it.uu.se/~justin/Hugo/post/hugo_module_fail/
+# or update Hugo https://wowchemy.com/docs/hugo-tutorials/update/
+
+
 # Leave the homepage title empty to use the site title
 title: Chris Yee WONG, Ph.D., CPI
 date: 2023-05-04
@@ -45,6 +49,14 @@ sections:
       #   columns: '2'
       # Override your bio text from `authors/admin/_index.md`?
       # text:
+  - block: markdown
+    content:
+      title: "Gallery"
+      subtitle:
+      text: |-
+          {{< gallery album="landing" lightbox="true" >}} 
+    design: # resize_options="300x300" <-- this only affects resolution and not size
+      columns: '1'
   # - block: features
   #   content:
   #     title: Skills
@@ -80,6 +92,13 @@ sections:
           company_logo: McGill_logo
           location: Montreal, Canada
           date_start: '2023-05-01'
+          date_end: ''
+        - title: Course Lecturer
+          company: McGill University - Department of Mechanical Engineering
+          company_url: 'https://sites.google.com/view/mcgillraise/home'
+          company_logo: McGill_logo
+          location: Montreal, Canada
+          date_start: '2023-08-30'
           date_end: ''
           # description: wtf
         - title: Postdoctoral Fellow
@@ -300,6 +319,16 @@ sections:
       #     padding: ["20px", "0", "20px", "0"]
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: MECH 261/262 Measurements and Statistics Lab
+          company: McGill University
+          company_url: 'https://www.mcgill.ca/'
+          company_logo: McGill_logo
+          location: Montreal, Canada
+          date_start: '2023-08-30'
+          date_end: ''
+          # description: |2-
+          #   * Overall rating 4.71/5, enthusiasm 4.94/5, and approachability 4.94/5
+          #   * For student comments, please view [my RateMyProfessors profile](https://www.ratemyprofessors.com/professor?tid=2719627).
         - title: ENGR 243 Dynamics
           company: Concordia University
           company_url: ''

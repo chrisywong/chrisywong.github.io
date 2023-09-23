@@ -44,8 +44,8 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
-  section: [HTML, RSS]
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects] # if problems, see https://user.it.uu.se/~justin/Hugo/post/hugo_module_fail/
+  section: [HTML, RSS] #or update Hugo https://wowchemy.com/docs/hugo-tutorials/update/
 imaging:
   resampleFilter: lanczos
   quality: 75
