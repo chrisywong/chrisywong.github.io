@@ -326,9 +326,9 @@ sections:
           location: Montreal, Canada
           date_start: '2023-08-30'
           date_end: ''
-          # description: |2-
-          #   * Overall rating 4.71/5, enthusiasm 4.94/5, and approachability 4.94/5
-          #   * For student comments, please view [my RateMyProfessors profile](https://www.ratemyprofessors.com/professor?tid=2719627).
+          description: |2-
+            * Overall rating 5.0/5
+            * For some student comments, please view [my RateMyProfessors profile](https://www.ratemyprofessors.com/professor/2927024).
         - title: ENGR 243 Dynamics
           company: Concordia University
           company_url: ''
@@ -338,7 +338,7 @@ sections:
           date_end: '2021-12-31'
           description: |2-
             * Overall rating 4.71/5, enthusiasm 4.94/5, and approachability 4.94/5
-            * For student comments, please view [my RateMyProfessors profile](https://www.ratemyprofessors.com/professor?tid=2719627).
+            * For some student comments, please view [my RateMyProfessors profile](https://www.ratemyprofessors.com/professor?tid=2719627).
         - title: MIE 422 Automated Manufacturing
           company: University of Toronto
           company_url: ''
