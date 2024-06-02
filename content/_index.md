@@ -10,7 +10,7 @@
 
 # Leave the homepage title empty to use the site title
 title: Chris Yee WONG, Ph.D., CPI
-date: 2023-05-04
+date: 2024-03-18
 type: landing
 
 sections:
@@ -76,7 +76,7 @@ sections:
   - block: experience
     id: experience
     content:
-      title: Experience
+      title: Professional Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -86,6 +86,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Assistant Professor
+          company: Concordia University
+          company_url: ''
+          company_logo: concordia_logo
+          location: Montreal, Canada
+          date_start: '2024-08-01'
+          date_end: ''
         - title: Research Associate
           company: McGill University - Responsible Autonomy and Intelligent Systems Ethics (RAISE) Laboratory
           company_url: 'https://sites.google.com/view/mcgillraise/home'
@@ -95,11 +102,11 @@ sections:
           date_end: ''
         - title: Course Lecturer
           company: McGill University - Department of Mechanical Engineering
-          company_url: 'https://sites.google.com/view/mcgillraise/home'
+          company_url: 'https://www.mcgill.ca/mecheng'
           company_logo: McGill_logo
           location: Montreal, Canada
           date_start: '2023-08-30'
-          date_end: ''
+          date_end: '2024-04-30'
           # description: wtf
         - title: Postdoctoral Fellow
           company: Universite de Sherbrooke - Humanoid and Collaborative Robotics Laboratory
@@ -305,7 +312,7 @@ sections:
       text: |2-
         > <i> I believe that knowledge cannot be transferred or prescribed; it can only be reconstructed in one's head. </i>
 
-        My overarching philosophy as a teacher, continuously refined over 14 semesters of teaching experience as both course instructor and teaching assistant, is to act as a guide for students such that they stay engaged in the learning process and solve problems by their own reasoning. 
+        My overarching philosophy as a teacher, continuously refined over 16 semesters of teaching experience as both course instructor and teaching assistant, is to act as a guide for students such that they stay engaged in the learning process and solve problems by their own reasoning. 
         The goal is to help students in reconstructing new knowledge for themselves through a mix of evidence-based educational techniques and my own creativity to ensure that my methods are effective. 
 
         I'm always interested in new teaching philosophies and methods, so feel free to reach out to me if you want to start a discussion!
@@ -321,13 +328,14 @@ sections:
       items:
         - title: MECH 261/262 Measurements and Statistics Lab
           company: McGill University
-          company_url: 'https://www.mcgill.ca/'
+          company_url: 'https://www.mcgill.ca/study/2023-2024/courses/mech-262'
           company_logo: McGill_logo
           location: Montreal, Canada
           date_start: '2023-08-30'
-          date_end: ''
+          date_end: '2024-04-30'
           description: |2-
-            * Overall rating 5.0/5
+            * Overall rating 4.7/5
+            * Semesters taught: Fall 2023, Winter 2024
             * For some student comments, please view [my RateMyProfessors profile](https://www.ratemyprofessors.com/professor/2927024).
         - title: ENGR 243 Dynamics
           company: Concordia University
@@ -338,6 +346,7 @@ sections:
           date_end: '2021-12-31'
           description: |2-
             * Overall rating 4.71/5, enthusiasm 4.94/5, and approachability 4.94/5
+            * Semesters taught: Fall 2021
             * For some student comments, please view [my RateMyProfessors profile](https://www.ratemyprofessors.com/professor?tid=2719627).
         - title: MIE 422 Automated Manufacturing
           company: University of Toronto
@@ -349,6 +358,7 @@ sections:
           description: |2-
             * Overall rating 4.2/5, enthusiasm 4.7/5, and approachability 4.6/5
               * (Comparatively, the departmental average overall rating was 3.7/5)
+            * Semesters taught: Fall 2016
         - title: Teaching Assistant / Head TA
           # company: Various Universities
           # company_url: ''

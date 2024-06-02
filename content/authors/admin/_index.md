@@ -99,7 +99,7 @@ highlight_name: true
 ---
 <DIV align="justify">
 
-Hello! I am **Chris Yee Wong**, a **research associate** in the [*Responsible Autonomy and Intelligent Systems Ethics (RAISE) Laboratory*](https://sites.google.com/view/mcgillraise/home) within the Dept. of Electrical and Computer Engineering at **McGill University** in Montreal, Canada. 
+Hello! I am **Chris Yee Wong**, a **research associate** in the [*Responsible Autonomy and Intelligent Systems Ethics (RAISE) Laboratory*](https://sites.google.com/view/mcgillraise/home) within the Dept. of Electrical and Computer Engineering at **McGill University** and an *incoming* **assistant professor** (starting August 2024) in the Department of Mechanical, Industrial and Aerospace Engineering (MIAE) at **Concordia University**, both in Montreal, Canada. 
 
 The overall goal of my [research](#projects) is to develop robotic assistants for **safe, comfortable, and intuitive autonomous physical and social human-robot interaction (psHRI)** in the areas of home care, retail, manufacturing, or healthcare. 
 My current research arc involves different aspects of psHRI with humanoid, mobile, and manipulator robots, particularly by examining how robots can be placed in the retail space to enhance and assist the shopping experience of those who might have visual or mobility impairments.
@@ -109,7 +109,7 @@ I am also developing the foundations of *Sensor Observability Analysis*, a novel
 
 I am also passionate about [teaching](#teaching) using evidence-based techniques, the scholarship of teaching and learning, mentoring, and helping people become better versions of themselves.
 
-On my spare time, I'm a hobbyist maker with my own [Etsy store](https://www.etsy.com/ca/shop/SRNDPTOUSCreations) (with corporate clients) and I'm involved in coaching elite youth and university-level dragon boat teams in the Montreal area. Although my blog [*Ramblings of a PhD*](https://phdramblingshome.wordpress.com/) is a little outdated now, it has recorded some of my thoughts from having started a career in academia.
+On my spare time, I'm a hobbyist maker with my own [Etsy store](https://www.etsy.com/ca/shop/SRNDPTOUSCreations) (with corporate clients) and I'm involved in coaching [elite youth and university-level dragon boat teams](https://www.instagram.com/truegritu24/) in the Montreal area. Although my blog [*Ramblings of a PhD*](https://phdramblingshome.wordpress.com/) is a little outdated now, it has recorded some of my thoughts from having started a career in academia.
 
 Feel free to contact me by email 📧: `christopher[dot]wong3[at]mcgill[dot]ca`
  

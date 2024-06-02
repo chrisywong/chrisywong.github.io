@@ -22,10 +22,10 @@ links:
     icon_pack: 
     name: IROS 2022 Presentation
     url: https://www.youtube.com/watch?v=W8IQpi4CBZg
-  - icon: researchgate
-    icon_pack: ai
-    name: ResearchGate
-    url: https://www.researchgate.net/project/Sensor-Observability-Analysis
+  # - icon: researchgate
+  #   icon_pack: ai
+  #   name: ResearchGate
+  #   url: https://www.researchgate.net/project/Sensor-Observability-Analysis
 url_code: ''
 url_pdf: ''
 url_slides: ''

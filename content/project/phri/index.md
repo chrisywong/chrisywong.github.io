@@ -23,10 +23,10 @@ links:
     icon_pack: 
     name: Video 2
     url: https://youtu.be/gDnVblT8K8I
-  - icon: researchgate
-    icon_pack: ai
-    name: ResearchGate
-    url: https://www.researchgate.net/project/Physical-Human-Robot-Interaction-3
+#   - icon: researchgate
+#     icon_pack: ai
+#     name: ResearchGate
+#     url: https://www.researchgate.net/project/Physical-Human-Robot-Interaction-3
 url_code: ''
 url_pdf: ''
 url_slides: ''
