@@ -20,6 +20,10 @@ image:
 links:
   - icon: 
     icon_pack: 
+    name: T-RO 2024 Paper
+    url: https://www.researchgate.net/publication/370687950_Sensor_Observability_Analysis_for_Maximizing_Task-Space_Observability_of_Articulated_Robots
+  - icon: 
+    icon_pack: 
     name: IROS 2022 Presentation
     url: https://www.youtube.com/watch?v=W8IQpi4CBZg
   # - icon: researchgate
@@ -51,7 +55,9 @@ Compared to kinematic analysis using the Jacobian in serial manipulators, sensor
 We demonstrate the utility and importance of sensor observability in physical interactions using simulations and experiments of a custom 3-DOF robot and the Baxter robot.
 
 **Related Research Items**: 
-* C. Y. Wong and W. Suleiman, "Sensor Observability Index: Evaluating Sensor Alignment for Task-Space Observability in Robotic Manipulators," 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Kyoto, Japan, 2022, pp. 1276-1282.
+* C. Y. Wong and W. Suleiman, "Sensor Observability Analysis for Maximizing Task-Space Observability of Articulated Robots," in *IEEE Transactions on Robotics*, 2024. (Accepted)
+  * [ResearchGate Link](https://www.researchgate.net/publication/370687950_Sensor_Observability_Analysis_for_Maximizing_Task-Space_Observability_of_Articulated_Robots)
+* C. Y. Wong and W. Suleiman, "Sensor Observability Index: Evaluating Sensor Alignment for Task-Space Observability in Robotic Manipulators," *2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Kyoto, Japan, 2022, pp. 1276-1282.
   * [IEEE *Xplore* Link](https://ieeexplore.ieee.org/document/9982209)
   * [ResearchGate Link](https://www.researchgate.net/publication/362629254_Sensor_Observability_Index_Evaluating_Sensor_Alignment_for_Task-Space_Observability_in_Robotic_Manipulators)
   * [IROS 2022 Presentation (Kyoto, Oct 2022)](https://www.youtube.com/watch?v=W8IQpi4CBZg)

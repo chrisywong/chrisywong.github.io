@@ -88,7 +88,7 @@ sections:
       items:
         - title: Assistant Professor
           company: Concordia University
-          company_url: ''
+          company_url: 'https://www.concordia.ca/ginacody/mechanical-industrial-aerospace-eng.html'
           company_logo: concordia_logo
           location: Montreal, Canada
           date_start: '2024-08-01'
@@ -99,7 +99,7 @@ sections:
           company_logo: McGill_logo
           location: Montreal, Canada
           date_start: '2023-05-01'
-          date_end: ''
+          date_end: '2024-07-30'
         - title: Course Lecturer
           company: McGill University - Department of Mechanical Engineering
           company_url: 'https://www.mcgill.ca/mecheng'
@@ -326,6 +326,17 @@ sections:
       #     padding: ["20px", "0", "20px", "0"]
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: MECH 370 Modelling and Analysis of Dynamic Systems
+          company: Concordia University
+          company_url: 'https://www.concordia.ca/academics/undergraduate/calendar/current/section-71-gina-cody-school-of-engineering-and-computer-science/section-71-60-engineering-course-descriptions/mechanical-engineering-courses.html'
+          company_logo: concordia_logo
+          location: Montreal, Canada
+          date_start: '2024-09-04'
+          date_end: ''
+          # description: |2-
+          #   * Overall rating 4.7/5
+          #   * Semesters taught: Fall 2023, Winter 2024
+          #   * For some student comments, please view [my RateMyProfessors profile](https://www.ratemyprofessors.com/professor/2927024).
         - title: MECH 261/262 Measurements and Statistics Lab
           company: McGill University
           company_url: 'https://www.mcgill.ca/study/2023-2024/courses/mech-262'
@@ -336,10 +347,10 @@ sections:
           description: |2-
             * Overall rating 4.7/5
             * Semesters taught: Fall 2023, Winter 2024
-            * For some student comments, please view [my RateMyProfessors profile](https://www.ratemyprofessors.com/professor/2927024).
+            * For some student comments, please view [my McGill RateMyProfessors profile](https://www.ratemyprofessors.com/professor/2927024).
         - title: ENGR 243 Dynamics
           company: Concordia University
-          company_url: ''
+          company_url: 'https://www.concordia.ca/academics/undergraduate/calendar/current/section-71-gina-cody-school-of-engineering-and-computer-science/section-71-60-engineering-course-descriptions/mechanical-engineering-courses.html'
           company_logo: concordia_logo
           location: Montreal, Canada
           date_start: '2021-09-01'
@@ -347,7 +358,7 @@ sections:
           description: |2-
             * Overall rating 4.71/5, enthusiasm 4.94/5, and approachability 4.94/5
             * Semesters taught: Fall 2021
-            * For some student comments, please view [my RateMyProfessors profile](https://www.ratemyprofessors.com/professor?tid=2719627).
+            * For some student comments, please view [my Concordia RateMyProfessors profile](https://www.ratemyprofessors.com/professor?tid=2719627).
         - title: MIE 422 Automated Manufacturing
           company: University of Toronto
           company_url: ''
@@ -376,6 +387,15 @@ sections:
               * MIE 1064F Control Methods with Applications to Robotics (Fall 2017)
             * **McGill University**	(Sept 2011 – Dec 2011)
               * MECH 260 Machine Tool Laboratory	(Fall 2011)
+  - block: markdown
+    id: prospectivestudents
+    content:
+      title: Prospective Students
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      text: |2-
+        Students interested in my lab should send me an email with your resume, what you are looking for, and specific topics that you are interested in and how they relate to my work.        
   # - block: collection
   #   id: talks
   #   content:

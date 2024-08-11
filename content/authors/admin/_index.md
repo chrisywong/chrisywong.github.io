@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Associate in Robotics
+role: Assistant Professor in Robotics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: McGill University (Montreal, Canada)
-    url: https://www.mcgill.ca/
+  - name: Concordia University (Montreal, Canada)
+    url: https://www.concordia.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -99,19 +99,20 @@ highlight_name: true
 ---
 <DIV align="justify">
 
-Hello! I am **Chris Yee Wong**, a **research associate** in the [*Responsible Autonomy and Intelligent Systems Ethics (RAISE) Laboratory*](https://sites.google.com/view/mcgillraise/home) within the Dept. of Electrical and Computer Engineering at **McGill University** and an *incoming* **assistant professor** (starting August 2024) in the Department of Mechanical, Industrial and Aerospace Engineering (MIAE) at **Concordia University**, both in Montreal, Canada. 
+Hello! I am **Chris Yee Wong**, an **assistant professor** in the Department of Mechanical, Industrial and Aerospace Engineering (MIAE) and the **director** of the *Living with Assistive and Interactive Robots (LAIR) Lab* at **Concordia University** in Montreal, Canada. 
+<!-- **research associate** in the [*Responsible Autonomy and Intelligent Systems Ethics (RAISE) Laboratory*](https://sites.google.com/view/mcgillraise/home) within the Dept. of Electrical and Computer Engineering at **McGill University** and  -->
 
 The overall goal of my [research](#projects) is to develop robotic assistants for **safe, comfortable, and intuitive autonomous physical and social human-robot interaction (psHRI)** in the areas of home care, retail, manufacturing, or healthcare. 
-My current research arc involves different aspects of psHRI with humanoid, mobile, and manipulator robots, particularly by examining how robots can be placed in the retail space to enhance and assist the shopping experience of those who might have visual or mobility impairments.
-By using a multimodal analysis of human posture, gesture, and touch, a robot can infer intention and react appropriately depending on the context. 
+My current research arc involves different aspects of psHRI with humanoid, mobile, and manipulator robots, particularly by examining a) how [robots can be placed in the retail space](https://chrisywong.github.io/project/retail/) to enhance and assist the shopping experience of those who might have visual or mobility impairments, and b) how a robot can infer intention and react appropriately depending on the context by using a multimodal analysis of human posture, gesture, and touch. 
 
-I am also developing the foundations of *Sensor Observability Analysis*, a novel way of performing generalized kinematic analysis of distributed axial sensors on articulated robots. My past research involved automation of single cell micromanipulation, quadruped robot control, and hexapod robot leg design. 
+I am also developing the foundations of [*Sensor Observability Analysis*](https://chrisywong.github.io/project/soa/), a novel way of performing generalized kinematic analysis of distributed axial sensors on articulated robots. My past research involved automation of single cell micromanipulation, quadruped robot control, and hexapod robot leg design. 
 
 I am also passionate about [teaching](#teaching) using evidence-based techniques, the scholarship of teaching and learning, mentoring, and helping people become better versions of themselves.
 
-On my spare time, I'm a hobbyist maker with my own [Etsy store](https://www.etsy.com/ca/shop/SRNDPTOUSCreations) (with corporate clients) and I'm involved in coaching [elite youth and university-level dragon boat teams](https://www.instagram.com/truegritu24/) in the Montreal area. Although my blog [*Ramblings of a PhD*](https://phdramblingshome.wordpress.com/) is a little outdated now, it has recorded some of my thoughts from having started a career in academia.
+On my spare time, I'm a hobbyist maker with my own [Etsy store](https://www.etsy.com/ca/shop/SRNDPTOUSCreations) (with corporate clients) and I'm involved in coaching [elite youth and university-level dragon boat](https://www.instagram.com/truegritu24/) in the Montreal area. Although my blog [*Ramblings of a PhD*](https://phdramblingshome.wordpress.com/) is only occasionally updated, it has recorded some of my thoughts from having started a career in academia.
 
-Feel free to contact me by email 📧: `christopher[dot]wong3[at]mcgill[dot]ca`
+Feel free to contact me by email 📧: `christopheryee[dot]wong[at]concordia[dot]ca`
+<!-- `christopher[dot]wong3[at]mcgill[dot]ca` -->
  
 *<sub>(Note that this website is still a work in progress. Please use the links to my [ResearchGate](https://www.researchgate.net/profile/Christopher-Yee-Wong) and [LinkedIn](https://www.linkedin.com/in/chrisyeewong/) profiles for a more detailed portfolio.)</sub>*
 
