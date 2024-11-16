@@ -395,7 +395,7 @@ sections:
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       text: |2-
-        Students interested in my lab should send me an email with your resume, what you are looking for, and specific topics that you are interested in and how they relate to my work.        
+        Students interested in joining the *Living with Assistive and Interactive Robots (LAIR) Lab* should send me an email with your resume, what you are looking for, specific topics that you are interested in, and how they relate to my work.        
   # - block: collection
   #   id: talks
   #   content:

@@ -99,7 +99,7 @@ highlight_name: true
 ---
 <DIV align="justify">
 
-Hello! I am **Chris Yee Wong**, an **assistant professor** in the Department of Mechanical, Industrial and Aerospace Engineering (MIAE) and the **director** of the *Living with Assistive and Interactive Robots (LAIR) Lab* at **Concordia University** in Montreal, Canada. 
+Hello! I am **Chris Yee Wong**, an [**assistant professor**](https://www.concordia.ca/faculty/christopheryee-wong.html) in the Department of Mechanical, Industrial and Aerospace Engineering (MIAE) and the **director** of the *Living with Assistive and Interactive Robots (LAIR) Lab* at **Concordia University** in Montreal, Canada. 
 <!-- **research associate** in the [*Responsible Autonomy and Intelligent Systems Ethics (RAISE) Laboratory*](https://sites.google.com/view/mcgillraise/home) within the Dept. of Electrical and Computer Engineering at **McGill University** and  -->
 
 The overall goal of my [research](#projects) is to develop robotic assistants for **safe, comfortable, and intuitive autonomous physical and social human-robot interaction (psHRI)** in the areas of home care, retail, manufacturing, or healthcare. 
