@@ -9,8 +9,8 @@
 
 
 # Leave the homepage title empty to use the site title
-title: Chris Yee WONG, Ph.D., CPI
-date: 2024-03-18
+title: Chris Yee WONG, Ph.D., P.Eng.
+date: 2025-07-03
 type: landing
 
 sections:

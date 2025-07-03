@@ -2,7 +2,7 @@
 title: Robots in Retail
 summary: Exploring the use of robots in retail spaces to assist shoppers, especially to help those may have visual or mobility impairments.
 tags:
-  - phri
+  - pshri
   - active
 date: "2023-05-01T00:00:00Z"
 
