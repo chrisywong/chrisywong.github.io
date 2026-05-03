@@ -1,114 +1,46 @@
-# SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-# Appearance
-
-appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
-
-# SEO
-
-marketing:
-  seo:
-    site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'Personal website for Chris Yee Wong'
-    twitter: ''
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
-
-# Site header
-
-header:
-  navbar:
+hugoblox:
+  schema: "2.0"
+  identity:
+    name: ""
+    type: person
+    tagline: ""
+    description: ""
+  theme:
+    mode: system
+    pack: default
+    colors:
+      primary: "blue"
+      secondary: ""
+      neutral: ""
+  typography:
+    font: sans
+    size: md
+    pack: academic
+  layout:
+    radius: md
+    spacing: compact
+    avatar_shape: rounded
+  header:
     enable: true
-    align: l
-    show_logo: true
-    show_language: false
-    show_day_night: true
-    show_search: true
-    highlight_active_link: true
-
-# Site footer
-
-footer:
+    style: navbar
+    sticky: true
+    align: center
+    search: true
+    theme_toggle: true
+    language_switcher: false
+  footer:
+    style: minimal
+    language_switcher: true
   copyright:
-    notice: '© {year} Christopher Yee Wong.' # This work is licensed under {license}
-    license: 
-      enable: false
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
-
-# Localization
-
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
-
-# Site features
-
-features:
-  syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
-  math:
-    enable: false
-  privacy_pack:
-    enable: false
-  repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
-    branch: main
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+    notice: © {year} {name}
+  content:
+    math:
+      enable: true
+    toc:
+      enable: true
+    reading_time:
+      enable: true
+    citations:
+      style: ieee
   search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: ''
-    api_key: ''
-    zoom: 15
-
-# Extensions
-
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
     enable: true
-
-# Security
-
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true

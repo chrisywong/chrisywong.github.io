@@ -1,0 +1,131 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: "Chris Yee WONG, Ph.D., P.Eng."
+  given: "Christopher Yee"
+  family: Wong
+  alternate: ''  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+  # pronouns: he/him
+postnominals:
+  - Ph.D.
+  - P.Eng.
+status:
+  icon: "🤖"
+role: "Assistant Professor in Robotics"
+bio: |
+  I am **Chris Yee Wong**, an [**assistant professor**](https://www.concordia.ca/faculty/christopheryee-wong.html) in the Department of Mechanical, Industrial and Aerospace Engineering (MIAE) and the **director** of the *Living with Assistive and Interactive Robots (LAIR) Lab* at **Concordia University** in Montreal, Canada. 
+
+  The overall goal of my [research](#projects) is to develop robotic assistants for **safe, comfortable, and intuitive autonomous physical and social human-robot interaction (psHRI)** in the areas of home care, retail, manufacturing, or healthcare. 
+  My current research arc involves different aspects of psHRI with humanoid, mobile, and manipulator robots, particularly by examining a) how a robot can infer intention and react appropriately depending on the context by using a **multimodal analysis** of human posture, gesture, touch, emotional state, physiological signals, environmental signals, etc; b) how [robots can be placed in the retail space](https://chrisywong.github.io/project/retail/) to enhance and assist the shopping experience of those who might have visual or mobility impairments; and c) how [virtrual reality can be used in psHRI](https://chrisywong.github.io/project/vr/). 
+
+  I am also developing the foundations of [*Sensor Observability Analysis*](https://chrisywong.github.io/project/soa/), a novel way of performing generalized kinematic analysis of distributed axial sensors on articulated robots. My past research involved automation of single cell micromanipulation, quadruped robot control, and hexapod robot leg design. 
+
+  I am also passionate about [teaching](#teaching) using evidence-based techniques, the scholarship of teaching and learning, mentoring, and helping people become better versions of themselves.
+
+  On my spare time, I'm a hobbyist maker with my own [Etsy store](https://www.etsy.com/ca/shop/SRNDPTOUSCreations) (with corporate clients) and I'm involved in coaching [elite youth and university-level dragon boat](https://www.instagram.com/truegritu24/) in the Montreal area. Although my blog [*Ramblings of a PhD*](https://phdramblingshome.wordpress.com/) is only occasionally updated, it has recorded some of my thoughts from having started a career in academia.
+
+  Feel free to contact me by email: `christopheryee[dot]wong[at]concordia[dot]ca`
+ 
+  *<sub>(Note that this website is still a work in progress. Please use the links to my [ResearchGate](https://www.researchgate.net/profile/Christopher-Yee-Wong) and [LinkedIn](https://www.linkedin.com/in/chrisyeewong/) profiles for a more detailed portfolio.)</sub>*
+
+affiliations:
+  - name: "Concordia University (Montreal, Canada)"
+    url: "https://www.concordia.ca/"
+
+links:
+  # - icon: at-symbol
+  #   url: mailto:alex.johnson@example.com
+  #   label: E-mail Me
+  # - icon: brands/x
+    # url: https://x.com/example
+  - icon: academicons/google-scholar
+    url: https://scholar.google.ca/citations?hl=en&user=rddmHA4AAAAJ&view_op=list_works&sortby=pubdate
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Christopher-Yee-Wong
+  - icon: brands/github
+    url: https://github.com/chrisywong/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/chrisyeewong/
+  - icon: brands/wordpress
+    label: See my blog
+    url: https://phdramblingshome.wordpress.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-1825-0097
+
+interests:
+  - "Robotics"
+  - "Physical-Social Human-Robot Interaction"
+  - "Cooking"
+  - "Dragon Boat"
+
+# education:
+#   - degree: PhD in Robotics
+#     institution: University of Toronto (Toronto, Canada)
+#     # start: 2013-09-01
+#     end: 2017-11-30
+#     summary: |
+#       Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+#     button:
+#       text: Download dissertation
+#       url: /resume.pdf
+#       icon: hero/arrow-down-tray
+#   - degree: M.Eng. in Robotics
+#     institution: McGill University (Montreal, Canada)
+#     # start: 2013-09-01
+#     # end: 2015-05-31
+#   - degree: B.Eng. in Mechanical Engineering
+#     institution: McGill University (Montreal, Canada)
+#     # start: 2009-09-01
+#     # end: 2013-05-31
+
+# experience:
+#   - role: Senior AI Research Scientist
+#     org: Meta AI
+#     start: 2020-01-01
+#     summary: |
+#       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+#     button:
+#       text: View portfolio
+#       url: /
+#       icon: hero/arrow-down-tray
+#   - role: AI Research Intern
+#     org: OpenAI
+#     start: 2019-06-01
+#     end: 2019-12-31
+#     summary: |
+#       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - label: Python
+#         level: 5
+#       - label: Machine Learning
+#         level: 5
+#       - label: Cloud Computing
+#         level: 4
+#   - name: Research & Communication
+#     items:
+#       - label: Academic Writing
+#         level: 5
+#       - label: Conference Presentations
+#         level: 4
+#       - label: Grant Proposals
+#         level: 4
+
+# languages:
+#   - name: English
+#     level: 5
+#     label: Native
+#   - name: Spanish
+#     level: 4
+#     label: Fluent
+
+# awards:
+#   - title: Best Paper Award
+#     awarder: NeurIPS
+#     date: "2022-12-01"
+#     summary: Awarded for groundbreaking work on efficient training of large models.
+#     icon: hero/trophy
